@@ -1,19 +1,34 @@
-📸 Tampilan Progress Web FOODZONE
-🔐 Halaman Login
+## 🚀 Preview Progres: FOODZONE
 
-Halaman Login digunakan oleh pengguna untuk masuk ke sistem dengan memasukkan username dan password yang telah terdaftar.
-Tampilan dibuat sederhana dan responsif agar mudah digunakan.
+Dokumentasi visual mengenai progres pengembangan antarmuka pengguna (UI) platform **FOODZONE**.
 
-<img width="960" alt="Tampilan Login" src="https://github.com/user-attachments/assets/ed859729-5478-49a2-bfc6-f06b97bfc0e6" />
-📝 Halaman Register
+### 🔐 1. Halaman Login
 
-Halaman Register berfungsi untuk pendaftaran akun pengguna baru.
-Pengguna diwajibkan mengisi data yang diperlukan sebelum dapat mengakses sistem.
+Halaman autentikasi utama bagi pengguna untuk mengakses sistem. Didesain dengan pendekatan **minimalis** dan **responsif** untuk memastikan pengalaman pengguna yang mulus di berbagai perangkat.
 
-<img width="960" alt="Tampilan Register" src="https://github.com/user-attachments/assets/5e3be704-6957-410b-b4f7-2965892279bb" />
-📊 Halaman Dashboard
+<p align="center">
+<img width="960" height="510" alt="Screenshot 2026-01-13 213151" src="https://github.com/user-attachments/assets/5b877a7c-c871-4e46-96e1-a50be761bd0c" />
+</p>
 
-Halaman Dashboard merupakan halaman utama setelah pengguna berhasil login.
-Pada halaman ini ditampilkan informasi utama serta menu navigasi untuk mengakses fitur-fitur web.
+---
 
-<img width="960" alt="Tampilan Dashboard" src="https://github.com/user-attachments/assets/39bff709-25d1-4fe5-950e-d0114f964d5a" />
+### 📝 2. Halaman Registrasi
+
+Gerbang awal bagi pengguna baru untuk bergabung dengan ekosistem FOODZONE. Form pendaftaran dirancang secara intuitif untuk memudahkan penginputan data identitas pengguna secara cepat.
+
+<p align="center">
+<img width="960" height="509" alt="Screenshot 2026-01-13 213116" src="https://github.com/user-attachments/assets/b5fea9b2-d054-49be-8362-1e98ef9b9991" />
+</p>
+
+
+### 📊 3. Dashboard Utama
+
+Pusat kendali setelah pengguna berhasil masuk ke sistem. Dashboard ini menyajikan ringkasan informasi penting serta navigasi cepat menuju berbagai fitur unggulan di web FOODZONE.
+
+<p align="center">
+<img width="960" height="510" alt="Screenshot 2026-01-13 213227" src="https://github.com/user-attachments/assets/d6b39292-5b61-4a67-8011-06c893b18ad1" />
+</p>
+
+<p align="center">
+<img width="959" height="512" alt="Screenshot 2026-01-13 213251" src="https://github.com/user-attachments/assets/098e1dad-655b-4af2-8336-3ac4b1bc1cb8" />
+</p>
