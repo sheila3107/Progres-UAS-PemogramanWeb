@@ -1,4 +1,4 @@
-📸 Tampilan Progress Web FOODZONE 
+📸 Tampilan Progress Web FOODZONE
 🔐 Halaman Login
 
 Halaman Login digunakan oleh pengguna untuk masuk ke sistem dengan memasukkan username dan password yang telah terdaftar.
@@ -14,6 +14,6 @@ Pengguna diwajibkan mengisi data yang diperlukan sebelum dapat mengakses sistem.
 📊 Halaman Dashboard
 
 Halaman Dashboard merupakan halaman utama setelah pengguna berhasil login.
-Pada halaman ini ditampilkan informasi utama serta menu navigasi untuk mengakses fitur-fitur Web.
+Pada halaman ini ditampilkan informasi utama serta menu navigasi untuk mengakses fitur-fitur web.
 
 <img width="960" alt="Tampilan Dashboard" src="https://github.com/user-attachments/assets/39bff709-25d1-4fe5-950e-d0114f964d5a" />
